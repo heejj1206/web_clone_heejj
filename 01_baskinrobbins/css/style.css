@@ -547,6 +547,7 @@ body {
 #content .advertisement {
     width: 100%;
     height: 697px;
+    overflow: hidden;
 }
 
 #content .advertisement a {
